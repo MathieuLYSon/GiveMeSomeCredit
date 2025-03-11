@@ -1,4 +1,4 @@
-# 🏦 Credit Risk Prediction Using Machine Learning
+# Credit Risk Prediction Using Machine Learning
 
 ## Project Overview
 This project aims to predict **credit risk** using **machine learning** techniques. The dataset is highly **imbalanced**, requiring specialized data processing, feature selection, and model tuning to ensure accurate predictions. 
